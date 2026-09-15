@@ -34,3 +34,17 @@
 
 ### Next
 - 
+## Python Basics
+
+- Variables store data such as names and numbers.
+- `input()` gets information from the user.
+- `int()` converts text input into an integer.
+- `if / elif / else` is used for decisions.
+- `for` and `while` loops repeat code.
+- Lists store multiple values.
+- Dictionaries store key-value pairs.
+- Functions make code reusable.
+- `return` sends a value back from a function.
+- `try / except` handles errors.
+- `open()` is used to read and write files.
+- Modules such as `math` provide additional functionality.
