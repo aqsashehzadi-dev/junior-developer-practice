@@ -12,3 +12,25 @@
 - `git merge` — combines changes from one branch into another.
 - `git log --oneline` — shows commit history in a compact form.
 - `.gitignore` — prevents selected files, such as `.env`, from being tracked.
+## Weekly Review
+
+### Learned
+- 
+
+### Built
+- 
+
+### Solved
+- 
+
+### Improved
+- 
+
+### Achieved
+- 
+
+### Shared
+- 
+
+### Next
+- 
