@@ -90,7 +90,7 @@ while True:
         break
 
     else:
-        print("Invalid choice!")
+        print("Invalid choice. Please try again!")
 # Feature branch practice
 
 # Pull Request practice
