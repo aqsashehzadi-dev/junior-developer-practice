@@ -90,5 +90,5 @@ while True:
         break
 
     else:
-        print("Invalid choice!")
+        print("Please select a valid option!")
 # Feature branch practice
